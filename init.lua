@@ -852,6 +852,7 @@ require('lazy').setup({
         'terraform',
         'tsx',
         'typescript',
+        'javascript',
       },
       -- Autoinstall languages that are not installed
       auto_install = true,
